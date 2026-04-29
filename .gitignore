@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+._*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Python (in case any helper scripts get added later)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local-only artifacts
+*.log
+.env
